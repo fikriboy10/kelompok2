@@ -243,7 +243,7 @@ Setelah restart, login menggunakan user yang telah dibuat.
 
 ### Screenshot Login Debian
 
-![Login Terminal](Images/02-Debian-Login.png)
+![Login Terminal](images/login.png)
 
 ---
 
@@ -289,11 +289,11 @@ Apabila meminta password dan berhasil dijalankan berarti konfigurasi sudo berhas
 
 ### Screenshot
 
-![Update](Images/07-apt-update.png)
+![Update](images/update.png)
 
-![Install Sudo](Images/08-install-sudo.png)
+![Install Sudo](images/sudo.jpeg)
 
-![Usermod](Images/09-usermod.png)
+![Usermod](images/usermod.jpeg)
 
 ---
 
@@ -338,7 +338,7 @@ active (running)
 
 ### Screenshot
 
-![Status Nginx](Images/03-nginx-status.png)
+![Status Nginx](images/nginx.png)
 
 ---
 
@@ -372,7 +372,7 @@ Restart dilakukan agar konfigurasi dan halaman web terbaru dimuat kembali oleh N
 
 ### Screenshot
 
-![Edit HTML](Images/04-Edit-HTML.png)
+![Edit HTML](images/html.png)
 
 ---
 
@@ -406,7 +406,7 @@ Apabila halaman profil kelompok muncul berarti konfigurasi berhasil.
 
 ### Screenshot NAT
 
-![NAT](Images/05-nat-settings.png)
+![NAT](images/port.png)
 
 ### Screenshot Browser
 
