@@ -6,7 +6,7 @@
 
 Berikut adalah bukti bahwa layanan Nginx telah berhasil berjalan pada server Debian 13.
 
-![Tampilan Nginx Status](Images/03-nginx-status.png)
+![Tampilan Nginx Status](images/nginx.png)
 
 # Laporan Tugas Kelompok
 ## Instalasi Debian 13 Headless Web Server
@@ -209,7 +209,7 @@ Tidak menginstal Desktop Environment agar server tetap ringan.
 
 ### Screenshot Software Selection
 
-![Software Selection](Images/01-Software-Selection.png)
+![Software Selection](images/software.png)
 
 ---
 
