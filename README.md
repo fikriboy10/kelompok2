@@ -419,7 +419,7 @@ Apabila halaman profil kelompok muncul berarti konfigurasi berhasil.
 Tambahkan tautan video YouTube atau Google Drive di bawah ini.
 
 ```
-https://youtube.com/...
+https://youtu.be/gdJuH9qUlj0?si=9Ds2sKurMLvqXOlI
 ```
 
 ---
@@ -427,7 +427,7 @@ https://youtube.com/...
 Berikut adalah laporan formal kami
 
 ```
-[https://youtube.com/...](https://drive.google.com/file/d/1gN_r2xoEAnFvJ0cEnkd5iquPxcYVTOiC/view?usp=sharing)
+https://drive.google.com/file/d/1jBO8yhtxTDoxZAbpFnIepZuFxZ-n-dlI/view?usp=sharing
 ```
 ---
 
