@@ -410,7 +410,7 @@ Apabila halaman profil kelompok muncul berarti konfigurasi berhasil.
 
 ### Screenshot Browser
 
-![Browser](Images/06-browser-host.png)
+![Browser](images/browser.png)
 
 ---
 
